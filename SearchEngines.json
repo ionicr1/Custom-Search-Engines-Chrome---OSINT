@@ -36,6 +36,23 @@
 },
         {
             "suggestions_url": "",
+            "favicon_url": "",
+            "safe_for_autoreplace": false,
+            "is_active": "ACTIVE_STATUS_TRUE",
+            "date_created": 13304129690841691,
+            "starter_pack_id": 0,
+            "url": "https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "32c89762-0dce-4a71-80ae-a74711f2f945",
+            "short_name": "Windows Events",
+            "keyword": "ev",
+            "input_encodings": "",
+            "prepopulate_id": 0,
+            "last_modified": 13304129690841691
+},
+        {
+            "suggestions_url": "",
             "favicon_url": "https://www.abuseipdb.com/favicon.ico",
             "safe_for_autoreplace": false,
             "is_active": "ACTIVE_STATUS_TRUE",
@@ -67,6 +84,23 @@
             "input_encodings": "",
             "prepopulate_id": 0,
             "last_modified": 13304128207576969
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "",
+            "safe_for_autoreplace": false,
+            "is_active": "ACTIVE_STATUS_TRUE",
+            "date_created": 13304129637937140,
+            "starter_pack_id": 0,
+            "url": "https://www.speedguide.net/port.php?port={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "4b35468a-44c5-4f2a-b207-f59c1dda96b2",
+            "short_name": "SpeedGuide",
+            "keyword": "port",
+            "input_encodings": "",
+            "prepopulate_id": 0,
+            "last_modified": 13304129637937140
 }
     ]
 }
